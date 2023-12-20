@@ -1,2 +1,2 @@
-# ai-learning-win2023
-冬季AI组队学习
+# NTU_ML_2023_Spring
+ Machine Learning Homework, 2023 Spring@NTU EE , prof. Hung-Yi, Lee.
